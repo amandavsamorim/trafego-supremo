@@ -27,3 +27,24 @@ Criar uma página moderna e persuasiva para:
 
 ## 📂 Visualizar o projeto
 👉 https://amandavsamorim.github.io/trafego-supremo/
+
+## :woman_technologist:  Autora
+
+<table class="author">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/amandavsamorim">
+        <img src="https://avatars.githubusercontent.com/u/104646886?v=4" 
+        width="100px;" alt="Amanda Amorim"/>
+        <br/>
+        <sub>
+          <b>Amanda Amorim</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>   
+   LinkedIn: https://www.linkedin.com/in/amandavsamorim/ <br>
+   Telegram: https://t.me/amandavsamorim
+   
+   E-mail: amandavsadev@gmail.com
